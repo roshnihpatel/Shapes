@@ -10,6 +10,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        ShapeAreaLoader.getAreas(3);
+        ShapeAreaLoader.loadAreas(3);
     }
 }

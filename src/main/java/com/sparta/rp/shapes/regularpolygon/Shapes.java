@@ -1,5 +1,6 @@
 package com.sparta.rp.shapes.regularpolygon;
 
 public interface Shapes {
-    void getArea(double lengthOfSide);
+    double getArea(double lengthOfSide);
+    String getName();
 }
